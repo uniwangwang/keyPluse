@@ -1,0 +1,6 @@
+{
+  "name": "KeyPulse — Python 键盘周期自动化与脚本生成器",
+  "description": "可视化配置周期性键盘按键模拟、热键启停、视频播放自动化与自定义流程，一键导出可运行的 Python GUI 桌面程序与配置文件。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
